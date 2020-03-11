@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\atrex\desktop\project 3 - peg jump\project 3 - peg jump\main.cpp(179): warning C4715: 'charIndexToNumberIndex': not all control paths return a value
+c:\users\atrex\desktop\project 3 - peg jump\project 3 - peg jump\main.cpp(402): warning C4715: 'gameFinished': not all control paths return a value
+  Project 3 - Peg Jump.vcxproj -> C:\Users\atrex\Desktop\Project 3 - Peg Jump\Debug\Project 3 - Peg Jump.exe
